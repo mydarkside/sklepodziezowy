@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7804885-ea3c-44bb-8443-423491fd7e03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Sklep_odziezowy/src/main/java/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sklep_odziezowy/src/main/java/dao/UserDaoImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sklep_odziezowy" />
+  </component>
+  <component name="ProjectId" id="1W2DCm1W40KWo7s0YKLc1FUpEna" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7804885-ea3c-44bb-8443-423491fd7e03" name="Default Changelist" comment="" />
+      <created>1578338670625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578338670625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="25" y="-10" width="999" height="509" maximized="true" key="dock-window-1" timestamp="1578345539905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="25" y="-10" width="999" height="509" maximized="true" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1578345539905" />
+    <state x="678" y="4" width="686" height="583" key="dock-window-2" timestamp="1578545561272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="678" y="4" width="686" height="583" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1578545561272" />
+    <state x="27" y="183" width="660" height="509" key="dock-window-3" timestamp="1578345461451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="27" y="183" width="660" height="509" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1578345461451" />
+    <state x="684" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578545955260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="684" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578545955260" />
+  </component>
+</project>
