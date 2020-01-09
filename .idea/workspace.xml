@@ -1,15 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b7804885-ea3c-44bb-8443-423491fd7e03" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Sklep_odziezowy" beforeDir="false" afterPath="$PROJECT_DIR$/Sklep_odziezowy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Sklep_odziezowy/src/main/java/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sklep_odziezowy/src/main/java/dao/UserDaoImpl.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="4c7de03a-abae-4628-8d18-1f929d466926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/api/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ProductDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/work/ProductParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/api/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/api/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/work/Boots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/Boots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/work/Cloth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/Cloth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/work/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/work/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Service/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dao/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dao/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/api/ProductServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/api/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Service.ProductServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Service.ProductServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Service.ProductServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Service.ProductServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/service.UserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/service.UserServiceTest.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> ae31ae0165eb5ade251559e1569cef167d0773b6
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sklep_odziezowy" />
   </component>
@@ -32,6 +57,51 @@
             <select />
           </treeState>
         </serviceView>
+=======
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlBsM1JX7IMJMaobYh2wqdnneF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Steve Williams\IdeaProjects\sklepodziezowy\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+>>>>>>> ae31ae0165eb5ade251559e1569cef167d0773b6
       </list>
     </option>
   </component>
@@ -40,6 +110,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b7804885-ea3c-44bb-8443-423491fd7e03" name="Default Changelist" comment="" />
       <created>1578338670625</created>
       <option name="number" value="Default" />
@@ -65,5 +136,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="684" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578545955260" />
+=======
+      <changelist id="4c7de03a-abae-4628-8d18-1f929d466926" name="Default Changelist" comment="" />
+      <created>1575921506298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575921506298</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dao/UserServiceImpl.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+>>>>>>> ae31ae0165eb5ade251559e1569cef167d0773b6
   </component>
 </project>
